@@ -1,0 +1,2 @@
+Project: AI Chatbot with RAG and Telegram Integration:
+Developed an intelligent AI chatbot using Retrieval-Augmented Generation (RAG) to provide accurate, context-aware responses from custom knowledge sources. Integrated the chatbot with Telegram to enable real-time user interaction and automated support. Implemented document retrieval, semantic search, and LLM-based response generation to improve answer accuracy and relevance. Built using Python, vector databases, embeddings, and Telegram Bot API.
